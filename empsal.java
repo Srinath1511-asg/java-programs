@@ -33,7 +33,7 @@ public class empsal {
 	System.out.println("enter employee "+(i+1)+" details");
 	System.out.println("enter employee id");
 		int id=Integer.parseInt(b.readLine());
-		System.out.println("enter name");
+		System.out.println("enter the name");
 		String name=b.readLine();
 		System.out.println("enter employee salary");
 		double salary=Double.parseDouble(b.readLine());	
